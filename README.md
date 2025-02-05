@@ -1,3 +1,10 @@
+<!-- Profile logo -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kubixDev/kubixDev/refs/heads/main/logo.png" width="300">
+</p>
+<br>
+
+
 <!-- Main title -->
 <h2 align="left">
     💖 Hey there~
