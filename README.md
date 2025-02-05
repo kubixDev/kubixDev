@@ -1,8 +1,7 @@
 <!-- Profile logo -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kubixDev/kubixDev/refs/heads/main/logo.png" width="300">
+  <img src="https://raw.githubusercontent.com/kubixDev/kubixDev/refs/heads/main/logo.png" width="250">
 </p>
-<br>
 
 
 <!-- Main title -->
