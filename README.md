@@ -54,6 +54,7 @@
         Databases & Cloud
     </h6>
     <img alt="Firebase Badge" src="https://img.shields.io/badge/Firebase-b?style=for-the-badge&logo=firebase&logoColor=%23f5f5f5&labelColor=%23DD2C00&color=%23212529">
+    <img alt="PostgreSQL Badge" src="https://img.shields.io/badge/PostgreSQL-b?style=for-the-badge&logo=postgresql&logoColor=%23f5f5f5&labelColor=%234169E1&color=%23212529">
     <img alt="MySQL Badge" src="https://img.shields.io/badge/MySQL-b?style=for-the-badge&logo=mysql&logoColor=%23f5f5f5&labelColor=%234479A1&color=%23212529">
     <img alt="Oracle Badge" src="https://img.shields.io/badge/Oracle-b?style=for-the-badge&logo=oculus&logoColor=%23f5f5f5&labelColor=%23C74634&color=%23212529">
     <img alt="SQLite Badge" src="https://img.shields.io/badge/SQLite-b?style=for-the-badge&logo=sqlite&logoColor=%23f5f5f5&labelColor=%23003B57&color=%23212529">
